@@ -395,7 +395,7 @@ bot.onText(/^\.vip$/, async (msg) => {
 
 ONLY 25K
 
-ᴍɪɴᴀᴛ ᴄʜᴀᴛ ᴀᴅᴍɪɴ @aeternum12
+ᴍɪɴᴀᴛ ᴄʜᴀᴛ ᴀᴅᴍɪɴ @ruinaaa22
 
 testi @testivipaeternum`
   );
