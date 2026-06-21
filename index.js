@@ -383,14 +383,18 @@ bot.onText(/^\.vip$/, async (msg) => {
   bot.sendMessage(chatId,
 `𝙑𝙄𝙋 𝙂𝙍𝙐𝙋 AETERNUM
 
-5 rb video
+Keuntungan eksklusif yang di dapatkan: 
+- Update video viral setiap hari
+- Akses permanen tanpa batas waktu
+- Harga terjangkau
+
 ɪɴᴄʟᴜᴅᴇ ᴘʀᴇᴍɪᴜᴍ ᴠɪᴅᴇᴏ
 - KOLEKSI BOWCIL
 - ᴄɪᴍᴏʟʟᴀ ғᴜʟʟᴘᴀᴄᴋ ɴᴇᴡ ᴜᴘᴅᴀᴛᴇ
-- ᴛᴀʟᴇɴᴛ ᴄᴇᴄᴇ ғᴜʟʟᴘᴀᴄᴋ
+- ᴛᴀʟᴇɴᴛ ᴄᴇᴄᴇ 
 - ᴊᴇᴘᴀɴɢ
-- ɴᴇᴡ ᴄɪᴘᴀ / ᴄɪʙᴇ ᴠᴇsᴍᴇᴛ
-- ᴋᴏʟᴇᴋsɪ ᴊɪʟʙᴀʙ
+- Ome Tv
+- ᴋᴏʟᴇᴋsɪ Hijab
 - ᴅʟʟ.
 
 ONLY 25K
